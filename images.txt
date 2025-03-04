@@ -1,7 +1,6 @@
 nginx
 area39/pikachu
 sagikazarmark/dvwa
-jess/wargames
 paketobuildpacks/oracle
 tenable/nessus
-pigeatgarlic/win11
+
