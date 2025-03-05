@@ -2,4 +2,4 @@ nginx
 area39/pikachu
 sagikazarmark/dvwa
 paketobuildpacks/oracle
-kasmweb/nessus
+tenableofficial/nessus
